@@ -1,8 +1,0 @@
-1. Open git bash client
-2. Change dir to working dir (/f/pythonx/git)
-3. Check remote repo is correct: 
-git remote show
-If not, set it to the correct url:
-git remote set-url origin https://github.com/USERNAME/REPOSITORY.git
-4. Edit the args (dir1, dir2) in the script "git_smart_folder_push.sh"
-5. Run the back up script
